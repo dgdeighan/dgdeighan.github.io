@@ -1,2 +1,2 @@
 # dgdeighan.github.io
-Personal GitHub Pages site
+Repository for GitHub pages hosting
