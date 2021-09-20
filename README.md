@@ -1,2 +1,2 @@
-# dgdeighan.github.io
+# David Deighan
 Repository for GitHub pages hosting
